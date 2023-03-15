@@ -6,5 +6,8 @@ namespace ConsoleApp2
 {
     class newClass
     {
+        void bratDavidDam()
+        {
+        }
     }
 }
